@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋  
+#### I'm Mengjiao Liu (mengjiao-liu)
 
 <!--
 **mengjiao-liu/mengjiao-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Development engineer
+- 🤔 I have contributed code in Kubernetes,helm,kubevela
+- 💬 Ask me about Go, Kubernetes, Linux, DevOps toolchain
+- 📫 How to reach me: liumengjiao.dev@gmail.com
+- 🌱 I’m currently learning Distributed database,Board painting ...
+- ⚡ Fun fact: Code printer!
