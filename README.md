@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Development engineer
-- 🤔 I have contributed code in Kubernetes,helm,kubevela
+- 🤔 I have contributed code in Kubernetes,kubernetes/website,helm
 - 💬 Ask me about Go, Kubernetes, Linux, DevOps toolchain
-- 📫 How to reach me: liumengjiao.dev@gmail.com
-- 🌱 I’m currently learning Distributed database,Board painting ...
+- 📫 How to reach me: mengjiao.liu@daocloud.io
+- 🌱 I'm currently focusing on sig Docs/Instrumentation/Node ...
 - ⚡ Fun fact: Code printer!
